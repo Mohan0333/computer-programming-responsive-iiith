@@ -264,7 +264,7 @@ window.view = {
 		}
 		else
 			this.highlightNextStep()
-	}
+	},
 	init: function() {
 		this.activateEvents()
 	}
